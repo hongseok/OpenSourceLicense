@@ -78,11 +78,11 @@ https://github.com/gdavis/FGallery-iPhone
 FGallery is a photo gallery viewer developed for iPhone applications. FGallery implements a delegate style design pattern similar to how UITableViewDelegates work. You may load images from either the local application bundle, or from the network.
 
 
-## Reachability.h
+## Reachability
 
-https://developer.apple.com/library/ios/
+https://developer.apple.com/library/ios/samplecode/Reachability/Introduction/Intro.html
 
-Basic demonstration of how to use the SystemConfiguration Reachablity APIs.
+The Reachability sample application demonstrates how to use the SystemConfiguration framework to monitor the network state of an iOS device. In particular, it demonstrates how to know when IP can be routed and when traffic will be routed through a Wireless Wide Area Network (WWAN) interface such as EDGE or 3G.
 
 
 ## Google toolbox for Mac
